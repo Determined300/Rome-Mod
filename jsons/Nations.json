@@ -25,7 +25,7 @@
       "favoredReligion": "Christianity",
 	  "uniqueName": "The Glory of Rome",
 	  "uniques": ["[+25]% Production towards any buildings that already exist in the Capital",
-		          "All newly-trained [Legion] units in the first [3] cities receive the [Legionary] promotion",
+		          "All newly-trained [Legion] units [3] [in your cities] will receive the [Legionary] promotion",
 		          "[+2 Culture] from every specialist [in all cities]"],
 	  "cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 	  "Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
