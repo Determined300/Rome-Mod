@@ -30,7 +30,7 @@
 	  "upgradesTo": "Longswordsman",
 	  "obsoleteTech": "Gunpowder",
 	  "requiredResource": "Iron",
-	  "uniques": ["Can build [Road/Plain] improvements on tiles", "Can build [Fort/Plain] improvements on tiles",
+	  "uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles",
 		          "[+10]% Strength <vs [Barbarian] units>"],
 	  "hurryCostModifier": 20,
 	  "attackSound": "metalhit"
