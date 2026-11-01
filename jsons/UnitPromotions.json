@@ -4,6 +4,6 @@
       "name": "Legionary",
       "uniques": [ "[+5]% Strength <when attacking>",
                    "[+5]% Strength <when defending>",
-                   "[6] XP gained from combat"]
+                   "[+6]% XP gained from combat"]
    },
 ]
