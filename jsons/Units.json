@@ -6,9 +6,9 @@
       "replaces": "Catapult"
       "uniqueTo": "Rome"
       "movement": 2,
-      "strength": 8,
-      "rangedStrength": 10,
-      "cost": 79,
+      "strength": 6,
+      "rangedStrength": 12,
+      "cost": 80,
       "requiredTech": "Mathematics", 
       "obsoleteTech": "Physics",
       "upgradesTo": "Trebuchet",
