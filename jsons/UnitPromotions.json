@@ -4,6 +4,7 @@
       "name": "Legionary",
       "uniques": [ "[+5]% Strength <when attacking>",
                    "[+5]% Strength <when defending>",
-                   "[+6]% XP gained from combat"]
+                   "[+5]% XP gained from combat",
+                   "Heals [10] damage if it kills a unit"],
    },
 ]
