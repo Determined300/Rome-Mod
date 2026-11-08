@@ -9,15 +9,23 @@
       "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the house Julii! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
       "startIntroPart2": "O glorious Imperator, your people celebrate you and ask for the glory of Rome! In these times of darkness, the Pax Romana will be a beacon of light for all! Will your new empire shine through the ages of history?",
 
-      "declaringWar": "In the name of Augustus Caesar, our Imperator invites you with the war you seek. Know this and know it well, what choices is made is deserving. Either be assimilated or bend the knee.",
+      "declaringWar": "Rome invites you with the war you seek. Know this and know it well, what choices is made is deserving. Either be assimilated or bend the knee.",
 	  "attacked": "Haven't you had enough just coiling in your big and indulging kingdom, yet is so small you wished for this war?",
-	  "defeated": "You may have deprived Rome of their favour, but never their will for her Legions to depend their motherland herself to the last.",
+	  "defeated": "You may have deprived Rome of their backbone, but never their will for her Legions to depend their motherland herself to the last.",
 	  "denounced": "I didn't believe you had this kind of backbone.",
-	  "introduction": "I greet you. I the name of Augustus, Imperator and Pontifex Maximus of Rome. If you are a friend of Rome, you are welcome.",
+	  "introduction": "I greet you. In the name of Caesar Augustus, Imperator and Pontifex Maximus of Rome. If you are a friend of Rome, you are welcome.",
+	  
 	  "neutralHello": "Hail Caesar Augustus.",
+	  "neutralLetsHearIt": "Well, what is it?",
+      "neurtralYes": "Satisfied.",
+	  "neutralNo": ["I humbly refuse","Obviously, no."],
+	   
 	  "hateHello": "Well, do you carry the kind of delegation that could possibly benefit neither our nations?",
-      "tradeRequest": "May i offer this, for your consideration?",
-	                  "I bestow the nature of this offer.",
+      "hateLetsHearIt": ["Your thread stretches thin, when it snaps reasoning is over.","Speak, for only time is a precious gift you have."],
+	  "hateYes": "This delegation is concluded.",
+      "hateNo": "Accepting terms always leaves the other with morality of consequences. The Imperator choose neither.",
+	   
+	  "tradeRequest": "May i offer this, for your consideration?",
 		  
       "outerColor": [70, 0, 118],
 	  "innerColor": [240, 199, 0],
