@@ -30,8 +30,10 @@
 	  "upgradesTo": "Longswordsman",
 	  "obsoleteTech": "Gunpowder",
 	  "requiredResource": "Iron",
+	  "promotions": ["Legionary"],
 	  "uniques": ["Can build [Road] improvements on tiles",
 		          "Can build [Fort] improvements on tiles"],
+		  
 	  "hurryCostModifier": 20,
 	  "attackSound": "metalhit"
     }
